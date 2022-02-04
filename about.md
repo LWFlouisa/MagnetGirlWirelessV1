@@ -3,8 +3,6 @@ layout: default
 title: About
 permalink: /about
 ---
-![image](https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/sewnonhead.jpg)
-
 # About the Comic
 
 Magnet Girl Wireless is a novelette collection of side novelettes that never made it into Uploaded Fairy proper.
