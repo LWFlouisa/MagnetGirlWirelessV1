@@ -1,2 +1,2 @@
-# MagnetGirlWirelessV1
-This will be a novelette collection webcomic.
+### Uploaded Fairy
+![cover](https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/scaledcover2.png)
